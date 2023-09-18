@@ -1,0 +1,26 @@
+﻿@page
+@model RegisterConfirmationModel
+@{
+    ViewData["Title"] = "登録確認";
+}
+
+<h1 class="text-light">@ViewData["Title"]</h1>
+@{
+    if (@Model.DisplayConfirmAccountLink)
+    {
+        <p class="text-light">
+            このシステムはメール送信機能が設定されていません。<br>
+            <a id="confirm-link" href="@Model.EmailConfirmationUrl">ここをクリック</a>してメールアドレスを有効化してください。<br>
+            <br>
+            システム管理者向け<a href="https://aka.ms/aspaccountconf">リンク</a>
+        </p>
+    }
+    else
+    {
+        <p class="text-light">
+            登録されたメールアドレスに確認用メールを送信しました。<br />
+            登録したメールアドレスの受信ボックスを確認してください。
+        </p>
+    }
+}
+

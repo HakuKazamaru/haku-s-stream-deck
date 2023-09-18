@@ -1,0 +1,24 @@
+﻿@page
+@model ResetAuthenticatorModel
+@{
+    ViewData["Title"] = "認証アプリ初期化";
+    ViewData["ActivePage"] = ManageNavPages.TwoFactorAuthentication;
+}
+
+<partial name="_StatusMessage" for="StatusMessage" />
+<h3 class="text-light">@ViewData["Title"]</h3>
+<div class="alert alert-warning" role="alert">
+    <p>
+        <span class="glyphicon glyphicon-warning-sign"></span>
+        <strong>認証キーを初期化した場合、再設定するまで認証アプリは使用できません。</strong>
+    </p>
+    <p>
+        この手順は認証アプリを再設定するまで二要素認証（2FA）を無効にします。<br>
+        認証アプリの設定を完了しないと、アカウントにアクセスできなくなる可能性があります。
+    </p>
+</div>
+<div>
+    <form id="reset-authenticator-form" method="post">
+        <button id="reset-authenticator-button" class="btn btn-danger" type="submit">認証キーの初期化</button>
+    </form>
+</div>

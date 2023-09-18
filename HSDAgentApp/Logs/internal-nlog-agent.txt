@@ -1,0 +1,673 @@
+2022-09-25 21:32:39.8634 Info Message Template Auto Format enabled
+2022-09-25 21:32:40.0540 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:32:40.0540 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:32:40.0708 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:32:40.0986 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:33:05.5483 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:33:05.5529 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:33:23.4400 Info Message Template Auto Format enabled
+2022-09-25 21:33:23.6255 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:33:23.6255 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:33:23.6359 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:33:23.6537 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:33:40.7625 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:33:40.7625 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:35:10.7168 Info Message Template Auto Format enabled
+2022-09-25 21:35:10.8574 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:35:10.8574 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:35:10.8684 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:35:10.9021 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:35:32.9712 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:35:32.9800 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:37:12.3966 Info Message Template Auto Format enabled
+2022-09-25 21:37:12.5754 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:37:12.5754 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:37:12.5998 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:37:12.6421 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:37:19.8280 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:37:19.8280 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:37:38.9648 Info Message Template Auto Format enabled
+2022-09-25 21:37:39.0955 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:37:39.0955 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:37:39.1069 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:37:39.1309 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:44:54.4677 Info Message Template Auto Format enabled
+2022-09-25 21:44:54.7812 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:44:54.7879 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:44:54.7879 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:44:54.8359 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:46:04.3855 Info Message Template Auto Format enabled
+2022-09-25 21:46:04.5768 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:46:04.5871 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:46:04.5967 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:46:04.6204 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:46:53.2343 Info Message Template Auto Format enabled
+2022-09-25 21:46:53.4972 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:46:53.5038 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:46:53.5038 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:46:53.5363 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:48:28.4374 Info Message Template Auto Format enabled
+2022-09-25 21:48:28.6109 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:48:28.6109 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:48:28.6109 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:48:28.6482 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:51:20.1668 Info Message Template Auto Format enabled
+2022-09-25 21:51:20.4990 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:51:20.4990 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:51:20.5251 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:51:20.5982 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 21:54:56.2224 Info Message Template Auto Format enabled
+2022-09-25 21:54:56.5081 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 21:54:56.5290 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 21:54:56.5290 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 21:54:56.6070 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:02:17.0537 Info Message Template Auto Format enabled
+2022-09-25 22:02:17.2993 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 22:02:17.2993 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 22:02:17.3174 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 22:02:17.3622 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:02:19.1256 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:02:19.1256 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:10:26.8457 Info Message Template Auto Format enabled
+2022-09-25 22:10:27.0377 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 22:10:27.0377 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 22:10:27.0377 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 22:10:27.0692 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:10:28.0155 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:10:28.0155 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:11:56.3385 Info Message Template Auto Format enabled
+2022-09-25 22:11:56.7843 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 22:11:56.7863 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 22:11:56.8059 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 22:11:56.8490 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:11:58.3235 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:11:58.3235 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:14:54.7125 Info Message Template Auto Format enabled
+2022-09-25 22:14:54.9443 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 22:14:54.9443 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 22:14:54.9725 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 22:14:55.0371 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:14:56.4570 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:14:56.4570 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:15:52.7533 Info Message Template Auto Format enabled
+2022-09-25 22:15:53.4830 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 22:15:53.4886 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 22:15:53.4886 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 22:15:53.5451 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:15:54.9877 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:15:54.9877 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:17:51.5886 Info Message Template Auto Format enabled
+2022-09-25 22:17:52.2053 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 22:17:52.2291 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 22:17:52.2469 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 22:17:52.2901 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:17:53.9958 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:17:54.0024 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:32:59.0156 Info Message Template Auto Format enabled
+2022-09-25 22:32:59.3428 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 22:32:59.3428 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 22:32:59.3564 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 22:32:59.4035 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:33:00.5908 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:33:00.5908 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:34:36.9332 Info Message Template Auto Format enabled
+2022-09-25 22:34:37.3041 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 22:34:37.3041 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 22:34:37.3041 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 22:34:37.3334 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:34:38.6468 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:34:38.6468 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:41:40.8215 Info Message Template Auto Format enabled
+2022-09-25 22:41:41.2216 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 22:41:41.2216 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 22:41:41.2337 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 22:41:41.2631 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:41:42.6009 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:41:42.6030 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:45:45.4413 Info Message Template Auto Format enabled
+2022-09-25 22:45:45.8287 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 22:45:45.8287 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 22:45:45.8417 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 22:45:45.8795 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:45:47.3479 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 22:45:47.3536 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 23:26:38.4816 Info Message Template Auto Format enabled
+2022-09-25 23:26:38.9551 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 23:26:38.9570 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 23:26:38.9570 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 23:26:38.9893 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 23:26:39.8660 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 23:26:39.8660 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 23:30:13.4830 Info Message Template Auto Format enabled
+2022-09-25 23:30:13.6230 Info Adding target FileTarget(Name=debugLog)
+2022-09-25 23:30:13.6230 Info Adding target FileTarget(Name=infoLog)
+2022-09-25 23:30:13.6325 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-09-25 23:30:13.6551 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 23:30:16.6361 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-09-25 23:30:16.6361 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 18:04:58.2240 Info Message Template Auto Format enabled
+2022-10-09 18:04:58.4114 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 18:04:58.4114 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 18:04:58.4239 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 18:04:58.4489 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 18:05:00.8777 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 18:05:00.8777 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 18:54:00.0623 Info Message Template Auto Format enabled
+2022-10-09 18:54:00.2629 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 18:54:00.2629 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 18:54:00.2629 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 18:54:00.3028 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 18:54:02.1244 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 18:54:02.1244 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:19:50.8970 Info Message Template Auto Format enabled
+2022-10-09 19:19:51.4939 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 19:19:51.4939 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 19:19:51.5091 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 19:19:51.5328 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:19:53.3284 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:19:53.3284 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:27:01.8629 Info Message Template Auto Format enabled
+2022-10-09 19:27:02.0358 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 19:27:02.0358 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 19:27:02.0498 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 19:27:02.0818 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:27:02.5471 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:02.6681 Warn FileTarget(Name=infoLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-info-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-info-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:02.7316 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:02.7927 Warn FileTarget(Name=infoLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-info-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-info-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:02.8701 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:02.9315 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:03.0014 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:03.0548 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:03.1154 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:03.3065 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:03.3587 Warn FileTarget(Name=infoLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-info-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-info-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:03.7465 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:03.7903 Warn FileTarget(Name=infoLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-info-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-info-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:03.8332 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:03.8741 Warn FileTarget(Name=infoLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-info-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-info-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:04.1824 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:04.2413 Warn FileTarget(Name=infoLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-info-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-info-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:04.6076 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:27:04.6182 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:27:04.6837 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:04.7419 Warn FileTarget(Name=infoLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-info-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-info-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:04.8969 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:04.9712 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:05.0635 Warn FileTarget(Name=infoLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-info-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-info-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:05.1402 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:05.2275 Warn FileTarget(Name=infoLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-info-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-info-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:05.2889 Warn FileTarget(Name=debugLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-debug-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-debug-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:27:05.4003 Warn FileTarget(Name=infoLog): Failed to create file appender: C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\.\Logs\agent-info-2022-10-09.log Exception: System.IO.IOException: The process cannot access the file 'C:\Users\Admin\source\repos\HSD\HSDAgentApp\bin\Debug\net6.0\Logs\agent-info-2022-10-09.log' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2022-10-09 19:31:04.5105 Info Message Template Auto Format enabled
+2022-10-09 19:31:05.1975 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 19:31:05.2239 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 19:31:05.2391 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 19:31:05.2648 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:31:07.2864 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:31:07.2994 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:40:59.1032 Info Message Template Auto Format enabled
+2022-10-09 19:40:59.2909 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 19:40:59.2935 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 19:40:59.2935 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 19:40:59.3314 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:41:01.7813 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:41:01.7813 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:47:04.9612 Info Message Template Auto Format enabled
+2022-10-09 19:47:05.3320 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 19:47:05.3593 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 19:47:05.3687 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 19:47:05.4691 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:47:07.6303 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 19:47:07.6303 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:00:00.1681 Info Message Template Auto Format enabled
+2022-10-09 20:00:00.3220 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:00:00.3220 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:00:00.3369 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:00:00.3730 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:00:03.1145 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:00:03.1165 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:01:09.6381 Info Message Template Auto Format enabled
+2022-10-09 20:01:09.7810 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:01:09.7810 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:01:09.7935 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:01:09.8142 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:01:11.5285 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:01:11.5285 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:03:55.8924 Info Message Template Auto Format enabled
+2022-10-09 20:03:56.0661 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:03:56.0661 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:03:56.0776 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:03:56.1114 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:03:57.8882 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:03:57.8882 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:06:24.3555 Info Message Template Auto Format enabled
+2022-10-09 20:06:24.5086 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:06:24.5086 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:06:24.5271 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:06:24.5496 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:06:26.5701 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:06:26.5701 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:07:24.1002 Info Message Template Auto Format enabled
+2022-10-09 20:07:24.2512 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:07:24.2512 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:07:24.2643 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:07:24.2928 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:07:56.2885 Info Message Template Auto Format enabled
+2022-10-09 20:07:56.4673 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:07:56.4673 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:07:56.4821 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:07:56.5076 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:08:03.4758 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:08:03.4758 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:12:11.6100 Info Message Template Auto Format enabled
+2022-10-09 20:12:12.5227 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:12:12.5227 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:12:12.5227 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:12:12.5579 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:12:14.7775 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:12:14.7775 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:13:06.9822 Info Message Template Auto Format enabled
+2022-10-09 20:13:07.3269 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:13:07.3394 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:13:07.3542 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:13:07.4082 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:13:09.5065 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:13:09.5065 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:13:52.7958 Info Message Template Auto Format enabled
+2022-10-09 20:13:53.3818 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:13:53.3818 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:13:53.4504 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:13:53.4956 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:13:55.1454 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:13:55.1454 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:17:21.3329 Info Message Template Auto Format enabled
+2022-10-09 20:17:21.5994 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:17:21.5994 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:17:21.5994 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:17:21.6376 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:17:24.2909 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:17:24.2909 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:25:16.5642 Info Message Template Auto Format enabled
+2022-10-09 20:25:16.9034 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:25:16.9211 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:25:16.9322 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:25:16.9921 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:25:19.2710 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:25:19.2710 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:35:11.1922 Info Message Template Auto Format enabled
+2022-10-09 20:35:11.3627 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:35:11.3694 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:35:11.3866 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:35:11.4077 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:35:13.8495 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:35:13.8509 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:36:46.2508 Info Message Template Auto Format enabled
+2022-10-09 20:36:46.4292 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:36:46.4292 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:36:46.4292 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:36:46.4616 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:36:49.1852 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:36:49.1852 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:51:14.9216 Info Message Template Auto Format enabled
+2022-10-09 20:51:15.1499 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 20:51:15.1629 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 20:51:15.1790 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 20:51:15.2167 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:51:17.6681 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 20:51:17.6714 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 21:04:56.5428 Info Message Template Auto Format enabled
+2022-10-09 21:04:56.7767 Info Adding target FileTarget(Name=debugLog)
+2022-10-09 21:04:56.7767 Info Adding target FileTarget(Name=infoLog)
+2022-10-09 21:04:56.7907 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-09 21:04:56.8236 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 21:04:58.8471 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-09 21:04:58.8531 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 00:27:51.3327 Info Message Template Auto Format enabled
+2022-10-10 00:27:51.6333 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 00:27:51.6333 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 00:27:51.6333 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 00:27:51.6896 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 00:27:55.6570 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 00:27:55.6652 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 00:33:30.3023 Info Message Template Auto Format enabled
+2022-10-10 00:33:31.5653 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 00:33:31.5653 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 00:33:31.5794 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 00:33:31.6153 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 00:33:33.0968 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 00:33:33.0968 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:13:29.8787 Info Message Template Auto Format enabled
+2022-10-10 01:13:30.3330 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 01:13:30.3330 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 01:13:30.3330 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 01:13:30.3853 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:13:34.1352 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:13:34.1352 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:23:34.4938 Info Message Template Auto Format enabled
+2022-10-10 01:23:34.8613 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 01:23:34.8613 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 01:23:34.8824 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 01:23:34.9151 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:23:38.2420 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:23:38.2510 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:26:04.5946 Info Message Template Auto Format enabled
+2022-10-10 01:26:04.8147 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 01:26:04.8147 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 01:26:04.8357 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 01:26:04.8703 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:26:07.1631 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:26:07.1631 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:29:27.2975 Info Message Template Auto Format enabled
+2022-10-10 01:29:27.5534 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 01:29:27.5534 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 01:29:27.5650 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 01:29:27.5880 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:29:30.6141 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:29:30.6141 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:41:09.2429 Info Message Template Auto Format enabled
+2022-10-10 01:41:10.0117 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 01:41:10.0117 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 01:41:10.0415 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 01:41:10.0897 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:41:12.9457 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:41:12.9508 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:49:20.2928 Info Message Template Auto Format enabled
+2022-10-10 01:49:20.5223 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 01:49:20.5223 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 01:49:20.5504 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 01:49:20.5788 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:49:23.7450 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 01:49:23.7450 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 02:03:15.3827 Info Message Template Auto Format enabled
+2022-10-10 02:03:15.6291 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 02:03:15.6291 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 02:03:15.6466 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 02:03:15.6791 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 02:03:18.2428 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 02:03:18.2428 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 02:07:26.8752 Info Message Template Auto Format enabled
+2022-10-10 02:07:27.1134 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 02:07:27.1134 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 02:07:27.1236 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 02:07:27.1443 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 02:07:29.4321 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 02:07:29.4321 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 02:19:28.7189 Info Message Template Auto Format enabled
+2022-10-10 02:19:29.1288 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 02:19:29.1288 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 02:19:29.1401 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 02:19:29.1615 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 02:19:30.4558 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 02:19:30.4558 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:06:18.1689 Info Message Template Auto Format enabled
+2022-10-10 13:06:18.3273 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 13:06:18.3273 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 13:06:18.3437 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 13:06:18.3804 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:06:21.4372 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:06:21.4372 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:07:16.4548 Info Message Template Auto Format enabled
+2022-10-10 13:07:16.6249 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 13:07:16.6249 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 13:07:16.6249 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 13:07:16.6678 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:07:19.7377 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:07:19.7377 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:23:44.5412 Info Message Template Auto Format enabled
+2022-10-10 13:23:44.7724 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 13:23:44.7748 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 13:23:44.7748 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 13:23:44.8073 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:23:47.8543 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:23:47.8543 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:27:15.8938 Info Message Template Auto Format enabled
+2022-10-10 13:27:16.1363 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 13:27:16.1363 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 13:27:16.1363 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 13:27:16.1693 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:27:19.8393 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 13:27:19.8393 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 14:00:11.5217 Info Message Template Auto Format enabled
+2022-10-10 14:00:11.8606 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 14:00:11.8606 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 14:00:11.8742 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 14:00:11.9031 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 14:00:15.8242 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 14:00:15.8242 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:00:52.0897 Info Message Template Auto Format enabled
+2022-10-10 15:00:52.6670 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 15:00:52.6670 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 15:00:52.6801 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 15:00:52.7250 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:00:54.6842 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:00:54.6842 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:11:00.9722 Info Message Template Auto Format enabled
+2022-10-10 15:11:01.1723 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 15:11:01.1737 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 15:11:01.1737 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 15:11:01.2101 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:11:03.6083 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:11:03.6083 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:27:20.3826 Info Message Template Auto Format enabled
+2022-10-10 15:27:20.8087 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 15:27:20.8129 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 15:27:20.8129 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 15:27:20.8559 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:27:23.8980 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:27:23.9055 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:50:44.6503 Info Message Template Auto Format enabled
+2022-10-10 15:50:44.8522 Info Adding target FileTarget(Name=debugLog)
+2022-10-10 15:50:44.8522 Info Adding target FileTarget(Name=infoLog)
+2022-10-10 15:50:44.8714 Info Adding target ColoredConsoleTarget(Name=logconsole)
+2022-10-10 15:50:44.8957 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:50:47.4969 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog
+2022-10-10 15:50:47.4969 Info Validating config: TargetNames=logconsole, debugLog, infoLog, ConfigItems=54 ConfigSection=NLog

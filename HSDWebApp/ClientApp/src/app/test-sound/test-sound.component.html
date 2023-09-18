@@ -1,0 +1,11 @@
+<h1>Test Sound</h1>
+
+<p>このページは単純なHSDApiを実行するサンプルページです。</p>
+
+<p aria-live="polite">
+  再生対象ファイルパス:<input type="text" value="{{ filePath }}" />
+  <br >
+  実行結果：<strong>{{ callResult }}</strong>
+</p>
+
+<button class="btn btn-primary" (click)="playSound()">再生</button>

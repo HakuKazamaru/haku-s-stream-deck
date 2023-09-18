@@ -1,0 +1,27 @@
+﻿@page
+@model GenerateRecoveryCodesModel
+@{
+    ViewData["Title"] = "二要素認証(2FA)リカバリーコードの生成";
+    ViewData["ActivePage"] = ManageNavPages.TwoFactorAuthentication;
+}
+
+<partial name="_StatusMessage" for="StatusMessage" />
+<h3 class="text-light">@ViewData["Title"]</h3>
+<div class="alert alert-warning" role="alert">
+    <p>
+        <span class="glyphicon glyphicon-warning-sign"></span>
+        <strong>このリカバリコードは紛失しないように保管してください。</strong>
+    </p>
+    <p>
+        認証用デバイスを紛失した場合、このリカバリーコードがない場合はアカウントにアクセスできなくなります。
+    </p>
+    <p>
+        新しいリカバリーコードを生成しても、認証アプリで使用する認証キーは変わりません。
+        認証アプリで使用する認証キーを変更したい場合は、<a asp-page="./ResetAuthenticator">認証キーをリセット</a>する必要があります。
+    </p>
+</div>
+<div>
+    <form method="post">
+        <button class="btn btn-danger" type="submit">リカバリコード再生成</button>
+    </form>
+</div>

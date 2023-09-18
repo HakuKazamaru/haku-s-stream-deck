@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HSDAgentApp", "HSDAgentApp\HSDAgentApp.csproj", "{38279D91-F290-4D3B-B152-220BBCE55BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSDWebApp", "HSDWebApp\HSDWebApp.csproj", "{6769F18A-9AD7-48E7-986A-D2A9D32C974E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38279D91-F290-4D3B-B152-220BBCE55BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38279D91-F290-4D3B-B152-220BBCE55BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38279D91-F290-4D3B-B152-220BBCE55BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38279D91-F290-4D3B-B152-220BBCE55BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6769F18A-9AD7-48E7-986A-D2A9D32C974E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6769F18A-9AD7-48E7-986A-D2A9D32C974E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6769F18A-9AD7-48E7-986A-D2A9D32C974E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6769F18A-9AD7-48E7-986A-D2A9D32C974E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856F37FA-7292-4047-8429-E641EFFDEC6E}
+	EndGlobalSection
+EndGlobal

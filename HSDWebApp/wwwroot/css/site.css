@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+code {
+    color: #e01a76;
+}
+
+.container {
+    max-width: none !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+main {
+    height: calc(100vh - .5rem * 2 - 1rem - .5rem * 2 - 1.625rem)
+}
+
+.hsd-row {
+    height: 22.5vh
+}

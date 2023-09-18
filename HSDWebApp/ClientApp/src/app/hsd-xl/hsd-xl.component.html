@@ -1,0 +1,22 @@
+<div class="row justify-content-md-center w-100 ms-auto me-auto">
+  <ng-container *ngFor="let row of buttonData; let i = index">
+    <div class="hsd-xl-row row mt-2 mb-3">
+      <ng-container *ngFor="let col of row; let j = index">
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body"
+                 (click)="clickButton(i.toString() + '-' + j.toString(),col.buttonType,col.buttonCommand)"
+                 (contextmenu)="rightClick(i, j)">
+              <input id="hdn-row-{{i}}-{{j}}" type="hidden" value="{{i}}">
+              <input id="hdn-col-{{i}}-{{j}}" type="hidden" value="{{j}}">
+              <input id="hdn-type-{{i}}-{{j}}" type="hidden" value="{{col.buttonType}}">
+              <input id="hdn-type-{{i}}-{{j}}" type="hidden" value="{{col.buttonCommand}}">
+              {{col.buttonName}}
+            </div>
+          </div>
+        </div>
+      </ng-container>
+    </div>
+  </ng-container>
+</div>
+

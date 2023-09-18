@@ -1,0 +1,36 @@
+<div class="card h-100">
+  <div class="card-header text-center bg-dark">
+    <ul class="nav nav-pills nav-fill" role="tablist">
+      <li class="nav-item" role="presentation">
+        <a id="tabnormal" #tabnormal class="nav-link text-light active" role="tab" data-bs-toggle="tab" aria-selected="true" (click)="clickNormal()">
+          Normal(3*5)
+        </a>
+      </li>
+      <li class="nav-item" role="presentation">
+        <a id="tabxl" #tabxl class="nav-link text-light" role="tab" data-bs-toggle="tab" (click)="clickXl()">
+          XL (4*8)
+        </a>
+      </li>
+      <li class="nav-item" role="presentation">
+        <a id="tabmini" #tabmini class="nav-link text-light" role="tab" data-bs-toggle="tab" (click)="clickMini()">
+          Mini(2*3)
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="card-body bg-dark">
+    <div class="row">
+      <div class="tab-content">
+        <div id="hsdnormal" class="tab-pane active pt-3" role="tabpanel" aria-labelledby="tabnormal" [style.display]="normal">
+          <app-hsd></app-hsd>
+        </div>
+        <div id="hsdxl" class="tab-pane pt-3" role="tabpanel" aria-labelledby="tabxl" [style.display]="xl">
+          <app-hsd-xl></app-hsd-xl>
+        </div>
+        <div id="hsdmini" class="tab-pane pt-3" role="tabpanel" aria-labelledby="tabmini" [style.display]="mini">
+          <app-hsd-mini></app-hsd-mini>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+﻿@inject SignInManager<ApplicationUser> SignInManager
+@{
+    var hasExternalLogins = (await SignInManager.GetExternalAuthenticationSchemesAsync()).Any();
+}
+<ul class="nav nav-pills flex-column">
+    <li class="nav-item">
+        <a class="nav-link text-light @ManageNavPages.IndexNavClass(ViewContext)" id="profile" asp-page="./Index">プロフィール設定</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-light @ManageNavPages.EmailNavClass(ViewContext)" id="email" asp-page="./Email">メールアドレス設定</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-light @ManageNavPages.ChangePasswordNavClass(ViewContext)" id="change-password" asp-page="./ChangePassword">パスワード変更</a>
+    </li>
+    @if (hasExternalLogins)
+    {
+        <li id="external-logins" class="nav-item">
+            <a id="external-login" class="nav-link text-light @ManageNavPages.ExternalLoginsNavClass(ViewContext)" asp-page="./ExternalLogins">外部認証設定</a>
+        </li>
+    }
+    <li class="nav-item">
+        <a class="nav-link text-light @ManageNavPages.TwoFactorAuthenticationNavClass(ViewContext)" id="two-factor" asp-page="./TwoFactorAuthentication">二要素認証（2FA）設定</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-light @ManageNavPages.PersonalDataNavClass(ViewContext)" id="personal-data" asp-page="./PersonalData">個人情報</a>
+    </li>
+</ul>

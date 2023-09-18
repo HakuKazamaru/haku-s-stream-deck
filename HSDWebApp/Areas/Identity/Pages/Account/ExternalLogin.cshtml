@@ -1,0 +1,32 @@
+﻿@page
+@model ExternalLoginModel
+@{
+    ViewData["Title"] = "登録";
+}
+
+<h1 class="text-light">@ViewData["Title"]</h1>
+<h2 class="text-light" id="external-login-title">@Model.ProviderDisplayName アカウントで登録します。</h2>
+<hr />
+
+<p id="external-login-description" class="text-info">
+    <strong>@Model.ProviderDisplayName</strong> アカウントの認証に成功しました。<br />
+    HSDに登録するメールアドレスを入力してください。
+</p>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-page-handler="Confirmation" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger text-danger ps-0" role="alert"></div>
+            <div class="form-floating">
+                <input asp-for="Input.Email" class="form-control" autocomplete="email" />
+                <label asp-for="Input.Email" class="form-label"></label>
+                <span asp-validation-for="Input.Email" class="text-warning"></span>
+            </div>
+            <button type="submit" class="w-100 btn btn-lg btn-primary">登録</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+main {
+  height: calc(100vh - .5rem * 2 - 1rem - .5rem * 2 - 1.625rem)
+}
+
+.hsd-row {
+    height:22.5vh
+}
+
+.hsd-xl-row {
+  height: 16.0vh
+}
+
+.hsd-mini-row {
+  height: 33.75vh
+}
+
+.controlpanel .hsd-row {
+  height: 20.0vh
+}
+
+.controlpanel .hsd-xl-row {
+  height: 14.25vh
+}
+
+.controlpanel .hsd-mini-row {
+  height: 31.5vh
+}
